@@ -5,6 +5,8 @@
         static void Main()
         {
             Console.WriteLine("hello everyone");
+            GreetWhite();
+            GreetBlack();
         }
 
         static void GreetWhite()
